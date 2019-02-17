@@ -1,0 +1,30 @@
+.container{
+	margin-top: 50px;
+}
+.jumbotron{
+height: 70px;
+
+}
+.maigaruwa{
+	text-align: center;
+	font-size: 14px;
+}
+img{
+	height: 350px;
+	border-radius: 25px;
+
+}
+nav{
+	position: fixed;
+}
+.output{
+	color: red;
+	border-style: double;
+	border-color: green;
+}
+/*.mii{
+    color: rgb(6, 13, 107);
+}
+/*.spanii{
+  		box-shadow: 5px 10px 8px 10px #888888;
+		}*/
