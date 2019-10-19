@@ -3,5 +3,6 @@ A platform for All water vendors in kano to register for easy access to customer
 After the interview we realize there are two problem the water vendors faced:
 - Having to move around with truck from one street to another, and after they sell it they will have to come back to that station and fetch another.
 - 95% of them dont have smart phones.
+-- I think this documentation needs more paragraphs .. @opezyhick
 
 Stating all these dec fcapt members thik of solution by creating a web platform for all garuwa members to register on it. so that all their customers leaving in that area can be able to call them( considering limitation to smart phone). 
